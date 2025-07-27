@@ -54,7 +54,7 @@ or manually download:
 - **IEDB immune epitope data**: [IEDB](https://www.iedb.org/)
 - **SAbDab structural antibody data**: [SAbDab](http://opig.stats.ox.ac.uk/webapps/newsabdab/)
 
-### **3️⃣ Running a Benchmark Task**
+### **Running a Benchmark Task**
 #### **Example: Predicting Antibody Binding Affinity**
 ```bash
 python tasks/binding_affinity.py --model esm2 --dataset PDB
@@ -100,12 +100,12 @@ Below are **initial benchmark results** on AI-driven antibody discovery:
 
 ---
 
-## **📢 Contributing**
+## **Contributing**
 We welcome contributions!  
 **Submit new AI models** for benchmarking.  
 **Improve datasets & evaluation metrics**.  
 **Suggest new benchmark tasks**.  
 
-## **📄 License**
+## **License**
 This project is licensed under the **MIT License**.  
 See [LICENSE](LICENSE) for details.
